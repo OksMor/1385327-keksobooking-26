@@ -1,6 +1,8 @@
 const ServerUrl = {
-  GET_URL: 'https://26.javascript.pages.academy/keksobooking/data',
-  POST_URL: 'https://26.javascript.pages.academy/keksobooking',
+  // GET_URL: 'https://26.javascript.pages.academy/keksobooking/data',
+  // POST_URL: 'https://26.javascript.pages.academy/keksobooking',
+  GET_URL: 'https://31.javascript.htmlacademy.pro/keksobooking/data',
+  POST_URL: 'https://31.javascript.htmlacademy.pro/keksobooking',
 };
 
 const getData = (onSuccess, onFail) => {
